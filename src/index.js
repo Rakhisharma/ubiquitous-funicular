@@ -1,7 +1,4 @@
-/*
-What is this sorcery?? Importing a CSS file in JavaScript?
-Make sure you understand what's going on here!!!
-*/
+
 import './index.css';
 
 import React from 'react';
